@@ -103,7 +103,7 @@ int main()
         }
         else
         {
-          printf("Invalid entry\n");
+          printf("Invalid entry. Please try again\n");
         }
         break;
       }
