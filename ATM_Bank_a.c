@@ -3,7 +3,7 @@
 
 int main() 
 {
-  int options;
+  int options; //Initialize variable options as integer 
   float balance = 0.0;
 
   printf("Welcome to the banking system\n");
