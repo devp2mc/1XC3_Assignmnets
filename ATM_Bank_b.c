@@ -105,6 +105,7 @@ int main()
         {
           printf("Invalid entry\n");
         }
+        break;
       }
       case 0:
       {
