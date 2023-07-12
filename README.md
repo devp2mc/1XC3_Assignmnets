@@ -1,1 +1,15 @@
 # 1XC3_Assignmnets
+# https://www.overleaf.com/project/64a5a3ad8502cfce0037b718
+# https://www.youtube.com/results?search_query=git+explained+in+100+secodns
+# https://www.youtube.com/results?search_query=git+it+
+# https://stackoverflow.com/questions/57947268/how-do-i-log-in-using-the-git-terminal
+# https://superuser.com/questions/635269/cant-find-ssh-directory-in-my-terminal
+# https://www.youtube.com/results?search_query=how+to+use+multiple+github+accounts+on+the+same+machine
+# https://www.youtube.com/watch?v=9_5wcWTth6w&list=PLF7ZhwvkczzNqLe3zLl0bDDFnwHYtRD9A&index=4
+# https://stackoverflow.com/questions/13479763/how-to-push-a-single-file-in-a-subdirectory-to-github-not-master
+# https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
+# https://www.freecodecamp.org/news/git-switch-branch/
+# https://xenovation.com/blog/source-control-management/git/how-to-change-remote-git-repository 
+# https://codingclench.hashnode.dev/enough-git-commands-to-get-started
+# https://www.w3docs.com/snippets/git/how-to-compare-local-and-remote-branches.html#:~:text=The%20local%20branch%20exists%20on,comparing%20local%20and%20remote%20branches.
+# https://gist.github.com/chrisvdg/c0767d8cf5dee3cf5024458d99bea9a7
