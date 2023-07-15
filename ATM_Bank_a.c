@@ -1,10 +1,10 @@
-# include <stdio.h>
-# include <stdbool.h>
+# include <stdio.h> //Include standard input and output library 
+# include <stdbool.h> //Include boolean library 
 
 int main() 
 {
   int options; //Initialize variable options as integer 
-  float balance = 0.0;
+  float balance; //Initialize variable options as float
 
   printf("Welcome to the banking system\n");
 
@@ -32,6 +32,7 @@ int main()
 
     printf("Please select the option you would like to proceed with by entering the number: ");
     scanf("%d", &options);
+    while (getchar() != '\n') continue;
 
     switch(options)
     {

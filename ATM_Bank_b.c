@@ -4,10 +4,10 @@
 
 int main() 
 {
-  int options; //Initialize variable options as integer 
+  int options = 0; //Initialize variable options as integer 
   float balance = 0.0;
   float interest_Rate = 0.0;
-  int years;
+  int years = 0;
 
   printf("Welcome to the banking system\n");
 
@@ -50,6 +50,7 @@ int main()
 
     printf("Please select the option you would like to proceed with by entering the number: ");
     scanf("%d", &options);
+    while (getchar() != '\n') continue;
 
     switch(options)
     {
@@ -96,6 +97,8 @@ int main()
       {
         printf("\nPlease enter the number of years you would like to compund: ");
         scanf("%d", &years);
+        while (getchar() != '\n') continue;
+        
         if (years >= 0)
         {
           float future_Balance = balance * pow((1 + interest_Rate), years);
