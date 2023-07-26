@@ -5,6 +5,7 @@
 
 #include "constants.h"
 #include "readFile_randWord.h"
+#include "functions.h"
 
 
 
